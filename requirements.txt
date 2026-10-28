@@ -2,3 +2,4 @@ voila
 pandas
 openpyxl
 ipywidgets
+ipykernel
